@@ -1,0 +1,3 @@
+include README.md
+include LICENSE
+include mopidy_fadepause/ext.conf
